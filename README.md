@@ -53,11 +53,8 @@ Para abordar este desafío y alcanzar nuestros objetivos, se implementará una m
 ```bash
 /main
    └── README.md
-    /archivo
-       └── Analisis_de_rendimiento.pbix
-    /presentations
-        └── link1_genially.txt
-        └── link2_genially.txt
+    /assets
+       └── Analisis_Rendimiento_NBA.pbix
 /develop
    └── PF_NBA.ipynb
    └── csv_clean.file
